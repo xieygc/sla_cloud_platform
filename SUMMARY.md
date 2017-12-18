@@ -16,5 +16,6 @@
   - [2.12 服务计量准确性](articles/cplatform/2-/2-12.md)
   - 2.13 服务免责范围
     - [2.13.1 免责范围](articles/cplatform/2-/2-13-1.md)
+    - [2.13.2 服务赔偿方案](articles/cplatform/2-/2-13-2.md)
     - 
 - [3.其他](articles/cplatform/3-/other.md)
