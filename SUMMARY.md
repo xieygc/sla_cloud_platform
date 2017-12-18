@@ -1,6 +1,6 @@
 # 产品名
 
-* [产品介绍](articles/product/1-/)
+* [1.服务范围](articles/cplatform/1-/service-range.md)
     * [产品概述](articles/product/1-/summary.md)
     * [产品优势](articles/product/1-/advantages.md)    
     * [应用场景](articles/product/1-/scenarios.md)
