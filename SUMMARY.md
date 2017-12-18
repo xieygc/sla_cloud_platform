@@ -7,4 +7,7 @@
     * [2.3 数据可迁移性](articles/cplatform/2-/2-3.md)
     * [2.4 数据私密性](articles/cplatform/2-/2-4.md)
     * [2.5 数据知情权](articles/cplatform/2-/2-5.md)
+    * [2.6 服务可审查性](articles/cplatform/2-/2-6.md)
+    * [2.7 服务功能](articles/cplatform/2-/2-7.md)
+    * [2.8 服务可用性](articles/cplatform/2-/2-8.md)
 * [3.其他](articles/cplatform/3-/other.md)
