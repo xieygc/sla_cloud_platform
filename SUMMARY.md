@@ -10,4 +10,6 @@
     * [2.6 服务可审查性](articles/cplatform/2-/2-6.md)
     * [2.7 服务功能](articles/cplatform/2-/2-7.md)
     * [2.8 服务可用性](articles/cplatform/2-/2-8.md)
+    * [2.9 服务资源调配能力](articles/cplatform/2-/2-9.md)
+    * 
 * [3.其他](articles/cplatform/3-/other.md)
