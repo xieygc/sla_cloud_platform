@@ -6,4 +6,5 @@
     * [2.2 数据可销毁性](articles/cplatform/2-/2-2.md)
     * [2.3 数据可迁移性](articles/cplatform/2-/2-3.md)
     * [2.4 数据私密性](articles/cplatform/2-/2-4.md)
+    * [2.5 数据知情权](articles/cplatform/2-/2-5.md)
 * [3.其他](articles/cplatform/3-/other.md)
