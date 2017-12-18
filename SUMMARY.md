@@ -3,6 +3,7 @@
 * [1.服务范围](articles/cplatform/1-/service-range.md)
 * [2.服务等级指标](articles/cplatform/1-/service-range.md)
     * [2.1 数据持久性](articles/product/2-/2-1.md)
+    * [2.1 数据持久性](articles/product/2-/2-1.md)
     * [产品优势](articles/product/1-/advantages.md)
     * [应用场景](articles/product/1-/scenarios.md)
     * [基础架构](articles/product/1-/structure.md)
