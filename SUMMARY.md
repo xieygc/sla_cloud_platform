@@ -1,9 +1,9 @@
 # 用友云平台开发者中心服务等级协议（SLA）
 
-- 1. 服务概述
+- 1.服务概述
   - [1.1 概述](articles/cplatform/README.md)
   - [1.2 服务范围](articles/cplatform/1-/service-range.md)
-- 2. 服务等级指标
+- 2.服务等级指标
   - [2.1 数据持久性](articles/cplatform/2-/2-1.md)
   - [2.2 数据可销毁性](articles/cplatform/2-/2-2.md)
   - [2.3 数据可迁移性](articles/cplatform/2-/2-3.md)
@@ -21,4 +21,4 @@
     - [2.13.2 服务赔偿方案](articles/cplatform/2-/2-13-2.md)
     - [2.13.3 赔偿申请时限](articles/cplatform/2-/2-13-3.md)
     - [2.13.4 服务时长申请程序](articles/cplatform/2-/2-13-4.md)
-- [3. 其他](articles/cplatform/3-/other.md)
+- [3.其他](articles/cplatform/3-/other.md)
