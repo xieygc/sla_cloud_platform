@@ -16,9 +16,8 @@
   - [2.10 故障恢复能力](articles/cplatform/2-/2-10.md)
   - [2.11 网络接入能力](articles/cplatform/2-/2-11.md)
   - [2.12 服务计量准确性](articles/cplatform/2-/2-12.md)
-  - 2.13 服务免责范围
-    - [2.13.1 免责范围](articles/cplatform/2-/2-13-1.md)
-    - [2.13.2 服务赔偿方案](articles/cplatform/2-/2-13-2.md)
-    - [2.13.3 赔偿申请时限](articles/cplatform/2-/2-13-3.md)
-    - [2.13.4 服务时长申请程序](articles/cplatform/2-/2-13-4.md)
+  - [2.13 服务变更和终止条款](articles/cplatform/2-/2-13.md)
+  - [2.14 服务赔偿方案](articles/cplatform/2-/2-14.md)
+  - [2.15 用户约束条款](articles/cplatform/2-/2-15.md)
+  - [2.16 服务商免责条款](articles/cplatform/2-/2-16.md)
 - [3.其他](articles/cplatform/3-/other.md)
