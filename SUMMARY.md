@@ -21,3 +21,4 @@
   - [2.15 用户约束条款](articles/cplatform/2-/2-15.md)
   - [2.16 服务商免责条款](articles/cplatform/2-/2-16.md)
 - [3.其他](articles/cplatform/3-/other.md)
+- [4.test](articles/cplatform/3-/other.md)
