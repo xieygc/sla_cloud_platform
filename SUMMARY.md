@@ -1,4 +1,4 @@
-# 用友云平台开发者中心服务等级协议（SLA）
+# 用友云平台服务等级协议（SLA）
 
 - 1.服务概述
   - [1.1 概述](articles/cplatform/1-/overview.md)
